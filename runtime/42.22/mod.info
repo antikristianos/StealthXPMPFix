@@ -1,0 +1,13 @@
+name=[B42] MP Vanilla Stealth XP Fix (WIP)
+id=StealthXPMPFix_WIP
+author=Antikristianos
+description=Server-authoritative Sneaking and Lightfooted XP repair using Vanilla sight calculations, accepted movement and Vanilla XP multipliers.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/StealthXPMPFix.jar
+javaPkgName=antikristianos.stealthxpmpfix
+ZBVersionMin=2.3.2
+modversion=1.4.1
+versionMin=42.22.0
+category=Multiplayer
+incompatible=StealthXPMPFix

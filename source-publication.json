@@ -1,0 +1,84 @@
+{
+  "SchemaVersion": 1,
+  "Project": "StealthXPMPFix",
+  "Repository": "antikristianos/StealthXPMPFix",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "1.4.1",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/StealthXPMPFix_WIP/42.22/media/java/StealthXPMPFix.jar",
+    "Size": 16213,
+    "Sha256": "353ADFD64FAF1C77CDA49DA9FE1E3225B7F6FCA8D2441106872ACD4D4E13432C"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 162,
+      "Sha256": "2F6906C997EC7BFA1FFE87283C3911CD827E6D81EB58F34FFFABEA146607D6F0"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1449,
+      "Sha256": "2E344B0ACAC9F96967CE0B0517CC27CAA05385309969BD3FC763CFF8084303A0"
+    },
+    {
+      "Path": "build.json",
+      "Size": 2358,
+      "Sha256": "8E9B07E65BC410B9873F09264E7BF65B18CEBEF802D7DE83786E0F11B15769D3"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.22/mod.info",
+      "Size": 468,
+      "Sha256": "F557A6E77D503B0C6180293AC62FC56A0E9FCF98539F93FFEEAE7FDF08015D75"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/Main.java",
+      "Size": 268,
+      "Sha256": "D02A18C0DD591780D19A7717395C66B4E7A1BDAAD1214C7E4A9E0F69DE8AE42B"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/MovementEvidence.java",
+      "Size": 1475,
+      "Sha256": "7F8563693803890E136A0A5EBE4279B5F9FC4BC6101340F65EBCD6F9706B1D41"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/PatchPlayerUpdate.java",
+      "Size": 375,
+      "Sha256": "789F11212CE49440204BC485161A6016A2BD057C53604650E98CE6DB6C5758A4"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/PatchServerAward.java",
+      "Size": 649,
+      "Sha256": "B030BC53BDD34438EB5272F52489EC92CAB8EB75771A6C813194E379D76E2282"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/ServerStealthXP.java",
+      "Size": 6582,
+      "Sha256": "CBCBBDFA5A24A34CF5040F6E9D642E2871B095E390C38C2E5C451E3FC6CF2186"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/VanillaProbe.java",
+      "Size": 10755,
+      "Sha256": "0D8FBA003976F0EE4DBAEC505D7D2B257F2454DC824B01CD632769D1609B3144"
+    },
+    {
+      "Path": "src/antikristianos/stealthxpmpfix/XpCycle.java",
+      "Size": 1305,
+      "Sha256": "213A55F24A65687E376BFBD600370D5F79AD2F1CED7D0286C8C6BC2DE4FA1549"
+    }
+  ]
+}
