@@ -1,0 +1,69 @@
+{
+  "JavaRelease": 17,
+  "JarName": "StealthXPMPFix.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/stealthxpmpfix/Main.class",
+      "Size": 549,
+      "Sha256": "7BE7280EB0D347CC187427408A7D9DCD663684C27D4477165952AFBAF2243694"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/MovementEvidence.class",
+      "Size": 1184,
+      "Sha256": "DBA60929176A882ECC487798DA4E6FB8BEF9BABD08282C7AAA59764854B7BD15"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/PatchPlayerUpdate.class",
+      "Size": 897,
+      "Sha256": "A73B20663DA52B9DA1C8BC544F6CFE19CC85D1C8839B8E71997678D0F91F84B8"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/PatchServerAward.class",
+      "Size": 1240,
+      "Sha256": "6979850F69FCB71F37570615E337A1891A09158056B0CF3EF9831EFFE5BD951D"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/ServerStealthXP$PlayerState.class",
+      "Size": 627,
+      "Sha256": "2E725E0E4EAB978F39576EB841F90C523FC5FAD305F7E4C88D9A126FA4920A11"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/ServerStealthXP.class",
+      "Size": 9280,
+      "Sha256": "D3052C1233C8F8B417111C5E53A2EE005DA471482463732709F2B945F183E3FB"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/VanillaProbe$1.class",
+      "Size": 1430,
+      "Sha256": "A0FB301ADCBEE51FAEA3B253E9B3CCDCF125B94CE87B6D838B6257F0165852B1"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/VanillaProbe$QueryVisitor.class",
+      "Size": 5484,
+      "Sha256": "F11817C8320E3FBE2EF1FF10AC7EE01758AE8020E962E6103D04FE07981A8D3A"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/VanillaProbe.class",
+      "Size": 4402,
+      "Sha256": "249BF64F656104E3344B5DF180B1CA65344C0DB6DD01FFB4976479E1F4F6A027"
+    },
+    {
+      "Path": "antikristianos/stealthxpmpfix/XpCycle.class",
+      "Size": 1284,
+      "Sha256": "0B655EBD0121031602B9F5362151ADC89A4732A3CD02F40267DA869AAE65F69C"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 65682033,
+      "Sha256": "E1A69EB743EDE60B213A0FE7F8B83D4FCAB773036D256CC4543A336F3B058A33"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}
