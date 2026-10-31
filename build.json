@@ -6,7 +6,7 @@
     {
       "Path": "antikristianos/stealthxpmpfix/Main.class",
       "Size": 549,
-      "Sha256": "7BE7280EB0D347CC187427408A7D9DCD663684C27D4477165952AFBAF2243694"
+      "Sha256": "8B551EE5718E7FC661C15C5B40E32E420314C3D5A3F569BA97D01A8C724616BC"
     },
     {
       "Path": "antikristianos/stealthxpmpfix/MovementEvidence.class",
@@ -30,8 +30,8 @@
     },
     {
       "Path": "antikristianos/stealthxpmpfix/ServerStealthXP.class",
-      "Size": 9277,
-      "Sha256": "6D70555566FA2113C7F59BD14739D82413C3DE31D758DA15BE7ECC40F83C066D"
+      "Size": 9275,
+      "Sha256": "72E7AFEB48AA230CD00E3644B4AFB42140164D53BACCB91BC538AFBD455BCCF7"
     },
     {
       "Path": "antikristianos/stealthxpmpfix/VanillaProbe$1.class",

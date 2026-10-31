@@ -3,16 +3,16 @@
   "Project": "StealthXPMPFix",
   "Repository": "antikristianos/StealthXPMPFix",
   "Branch": "wip",
-  "Tag": "wip-1.73",
-  "ModVersion": "1.4.1",
-  "CollectionVersion": "1.73",
+  "Tag": "wip-1.74",
+  "ModVersion": "1.5",
+  "CollectionVersion": "1.74",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "2ABF9D7AF3EF37A06138798DA34248FB098D85FDFBDB9DAA6B4D0E1EDC4D139D",
+  "UploadManifestSha256": "6635C9922F3B93194AD831FAE10CB92BFD22908005B4DCD304C78185535870CF",
   "Artifact": {
     "Path": "mods/StealthXPMPFix_WIP/42.22/media/java/StealthXPMPFix.jar",
-    "Size": 16213,
-    "Sha256": "353ADFD64FAF1C77CDA49DA9FE1E3225B7F6FCA8D2441106872ACD4D4E13432C"
+    "Size": 16209,
+    "Sha256": "B925C54D1188DD230CDDCC800576C03AD156D6557494BBB1AF78D71A11730706"
   },
   "Sources": [
     {
@@ -22,18 +22,18 @@
     },
     {
       "Path": "MANIFEST.MF",
-      "Size": 162,
-      "Sha256": "2F6906C997EC7BFA1FFE87283C3911CD827E6D81EB58F34FFFABEA146607D6F0"
+      "Size": 160,
+      "Sha256": "9F6EE398A9EC554EF4A7562552B672E06C4FE7CE12723568DCD686655B62A532"
     },
     {
       "Path": "README.md",
-      "Size": 1449,
-      "Sha256": "2E344B0ACAC9F96967CE0B0517CC27CAA05385309969BD3FC763CFF8084303A0"
+      "Size": 1447,
+      "Sha256": "8B89FD07035A3AC78259CE75FBFDD53B53988C8FA9DC67975108113EAF9B4692"
     },
     {
       "Path": "build.json",
       "Size": 2358,
-      "Sha256": "7AEF7BE2587DC23552821110D84BB9AE6EB4806223D974DEC01E764EDC994F8A"
+      "Sha256": "E3792F56CFEF45EAE52566ADA871CE276A5EEF071A9626208C8CD64BDCC85A87"
     },
     {
       "Path": "build.ps1",
@@ -42,13 +42,13 @@
     },
     {
       "Path": "runtime/42.22/mod.info",
-      "Size": 468,
-      "Sha256": "F557A6E77D503B0C6180293AC62FC56A0E9FCF98539F93FFEEAE7FDF08015D75"
+      "Size": 466,
+      "Sha256": "E91905F4CEAB25B855633AC141FBF4D197D8C74B88F74CC4699481DE1507F92C"
     },
     {
       "Path": "src/antikristianos/stealthxpmpfix/Main.java",
       "Size": 268,
-      "Sha256": "D02A18C0DD591780D19A7717395C66B4E7A1BDAAD1214C7E4A9E0F69DE8AE42B"
+      "Sha256": "BBAF6C015FD1EBFD7D8F8E29FB4A4DB48030892B7B6CFD9B488B4003C4D01204"
     },
     {
       "Path": "src/antikristianos/stealthxpmpfix/MovementEvidence.java",
@@ -67,8 +67,8 @@
     },
     {
       "Path": "src/antikristianos/stealthxpmpfix/ServerStealthXP.java",
-      "Size": 6582,
-      "Sha256": "CBCBBDFA5A24A34CF5040F6E9D642E2871B095E390C38C2E5C451E3FC6CF2186"
+      "Size": 6580,
+      "Sha256": "0CD2155F60FBE742A00D4B6A277E1033A7B99E7CD5E28E783C301EF5C7A69A80"
     },
     {
       "Path": "src/antikristianos/stealthxpmpfix/VanillaProbe.java",
