@@ -60,7 +60,7 @@ public final class ServerStealthXP {
             finally { probingAwardHook = false; }
             if (!awardHookAcknowledged) throw new IllegalStateException("XP suppression hook did not execute");
             enabled = true;
-            log("ACTIVE 1.4: server owns movement, sight queries and XP; duplicate-award hook verified.");
+            log("ACTIVE 1.5: server owns movement, sight queries and XP; duplicate-award hook verified.");
         } catch (Throwable error) { disable(error); }
     }
 

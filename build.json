@@ -6,7 +6,7 @@
     {
       "Path": "antikristianos/stealthxpmpfix/Main.class",
       "Size": 549,
-      "Sha256": "7BE7280EB0D347CC187427408A7D9DCD663684C27D4477165952AFBAF2243694"
+      "Sha256": "8B551EE5718E7FC661C15C5B40E32E420314C3D5A3F569BA97D01A8C724616BC"
     },
     {
       "Path": "antikristianos/stealthxpmpfix/MovementEvidence.class",
@@ -30,8 +30,8 @@
     },
     {
       "Path": "antikristianos/stealthxpmpfix/ServerStealthXP.class",
-      "Size": 9280,
-      "Sha256": "D3052C1233C8F8B417111C5E53A2EE005DA471482463732709F2B945F183E3FB"
+      "Size": 9275,
+      "Sha256": "72E7AFEB48AA230CD00E3644B4AFB42140164D53BACCB91BC538AFBD455BCCF7"
     },
     {
       "Path": "antikristianos/stealthxpmpfix/VanillaProbe$1.class",
@@ -57,13 +57,13 @@
   "Dependencies": [
     {
       "Path": "projectzomboid.jar",
-      "Size": 65682033,
-      "Sha256": "E1A69EB743EDE60B213A0FE7F8B83D4FCAB773036D256CC4543A336F3B058A33"
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
     },
     {
       "Path": "ZombieBuddy.jar",
-      "Size": 12491692,
-      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+      "Size": 12491689,
+      "Sha256": "F2490E1B72F12CFAE7EB7ADC3DCEA08F20F12AD8DDA4FB8C824631408DE3C180"
     }
   ]
 }

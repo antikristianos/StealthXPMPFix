@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: MP Vanilla Stealth XP Fix
-Implementation-Version: 1.4
+Implementation-Version: 1.5
 Build-Jdk-Spec: 17
 Created-By: 25 (Oracle Corporation)
 
