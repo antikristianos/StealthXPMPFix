@@ -3,12 +3,12 @@
   "Project": "StealthXPMPFix",
   "Repository": "antikristianos/StealthXPMPFix",
   "Branch": "wip",
-  "Tag": "wip-1.83",
+  "Tag": "wip-1.84",
   "ModVersion": "1.5",
-  "CollectionVersion": "1.83",
+  "CollectionVersion": "1.84",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "B0983CE5AAB18AE48396CD36F752A6A31C01D20AF89B7AD8E665BE18C832D238",
+  "UploadManifestSha256": "8FD533D1C5DF3E2680193AC55A05A0C01046B4C42E3D20011526B56598AA6615",
   "Artifact": {
     "Path": "mods/StealthXPMPFix_WIP/42.22/media/java/StealthXPMPFix.jar",
     "Size": 16209,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 2358,
-      "Sha256": "212ECAFDA82311E9816FE8C55870E7F1E255635E26F0A4D1850419BECDBDDEAA"
+      "Sha256": "131BFE4DAEEA40B4E82754602E670C6C05B7DF2DCE5F4AE8C7716B207A4EB270"
     },
     {
       "Path": "build.ps1",
